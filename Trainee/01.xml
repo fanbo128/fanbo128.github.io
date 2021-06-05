@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HD>
+    <disk title="A">
+        <name>
+            晓尘
+        </name>
+        <poss>
+            123456
+        </poss>
+    </disk>
+    <disk title="B">
+        <name>
+            小红
+        </name>
+        <poss>
+            123456
+        </poss>
+    </disk>
+</HD>
