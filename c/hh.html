@@ -22,8 +22,6 @@
   <pre id="input" contenteditable="true"></pre>
 </body>
 <script>
-  log("Hello world!");
-
   var b = Bugout("bugout-chat-tutorial");
   b.on("seen", function(address) { log(address + " [ seen ]"); });
   log(b.address() + " [ me ]");
